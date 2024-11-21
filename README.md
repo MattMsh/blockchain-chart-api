@@ -1,2 +1,2 @@
-# blockchain-chart-api
+# Blockchain chart api
 API to receive data for charts from blockchains.
